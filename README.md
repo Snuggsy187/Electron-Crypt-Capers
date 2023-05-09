@@ -1,7 +1,7 @@
 # Electron-Crypt-Capers
 
-Crypt Capers for the Acorn Electron
-by Michael Jakobsen
+Crypt Capers for the Acorn Electron - pre release (?) by Michael Jakobsen
+adapted by Snuggsy187
 
 [Download Disk Image version 0.2 !](https://github.com/Snuggsy187/Electron-Crypt-Capers/raw/main/Releases/Crypt-Capers-E.v0.2.ssd)
 
